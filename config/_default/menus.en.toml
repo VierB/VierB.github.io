@@ -1,0 +1,66 @@
+# Hauptmenü
+[[main]]
+name = "Startseite"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Über Uns"
+url = "ueber-uns/"
+weight = 2
+
+[[main]]
+name = "Dienstleistungen"
+url = "dienstleistungen/"
+weight = 3
+
+[[main]]
+name = "Projekte"
+url = "projekte/"
+weight = 4
+
+[[main]]
+name = "Nachhaltigkeit"
+url = "nachhaltigkeit/"
+weight = 5
+
+
+
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 6
+
+# Fußzeilenmenü
+[[footer]]
+name = "Über Uns"
+url = "ueber-uns/"
+weight = 1
+
+[[footer]]
+name = "Datenschutzrichtlinie"
+url = "datenschutzrichtlinie/"
+weight = 2
+
+[[footer]]
+name = "Nutzungsbedingungen"
+url = "nutzungsbedingungen/"
+weight = 3
+
+# [[footer]]
+# name = "Karriere"
+# url = "karriere/"
+# weight = 4
+
+
+
+[[footer]]
+name = "Kontakt"
+url = "kontakt/"
+weight = 5
+
+[[footer]]
+name = "Impressum"
+url = "impressum/"
+weight = 6
