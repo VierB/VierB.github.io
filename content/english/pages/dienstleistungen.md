@@ -5,6 +5,8 @@ description: "Erfahren Sie mehr über unsere vielfältigen Dienstleistungen im B
 draft: false
 ---
 
+{{< toc >}}
+
 # Unsere Dienstleistungen
 
 Bei **Vier B** liegt der Schwerpunkt unserer Arbeit auf dem "Bauen im Bestand", also der Sanierung und Erhaltung Ihrer Immobilien. Wir gehen Projekte gerne gewerkübergreifend an und kümmern uns um die Planung und Koordinierung.

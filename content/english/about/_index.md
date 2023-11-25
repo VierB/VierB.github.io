@@ -6,4 +6,30 @@ image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+
+# Testimonials
+testimonials:
+  - name: "Jürgen Schmidt"
+    designation: "Dachdeckmeister"
+    avatar: "/images/avatar-sm.png"
+    content: "Bei Vier B zu arbeiten bedeutet, in einem Team zu sein, das auf Qualität und Sicherheit achtet. Hier habe ich die Möglichkeit, meine Fähigkeiten täglich einzusetzen und weiterzuentwickeln."
+
+  - name: "Anja Weber"
+    designation: "Dachdecker-Gesellin"
+    avatar: "/images/avatar-sm.png"
+    content: "Als Gesellin bei Vier B habe ich nicht nur handwerklich viel gelernt, sondern auch, wie man effizient und zielgerichtet im Team arbeitet. Die Arbeitsatmosphäre hier ist einfach großartig."
+
+  - name: "Lukas Müller"
+    designation: "Bauplaner"
+    avatar: "/images/avatar-sm.png"
+    content: "Die Kreativität und Innovationskraft bei Vier B ist beeindruckend. Als Bauplaner bin ich stolz darauf, Teil einer Firma zu sein, die moderne und nachhaltige Lösungen anbietet."
+
+  - name: "Katrin Bauer"
+    designation: "Dachdeckermeisterin"
+    avatar: "/images/avatar-sm.png"
+    content: "Ich arbeite seit Jahren als Meisterin bei Vier B und die Erfahrungen hier sind unvergleichlich. Die Projekte sind herausfordernd und bereichernd, und die Unterstützung im Team ist immer da."
+
+# don't create a separate page
+_build:
+  render: "never"
+---

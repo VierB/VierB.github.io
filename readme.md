@@ -1,6 +1,20 @@
 # Die Vier B Website 
 
-Dokumentation folgt
+1. VS Code öffnen , dann auf der start Seite das Projekt öffnen 
+2. In der Menüzeile auf Terminal > Neues Terminal klicken 
+3. `npm run dev` eingeben und enter drücken, nach kurzem Warten [localhost:1313](http://localhost:1313) öffnen
+4. falls es Probleme gibt, mit Control + C im Terminal den Process stoppen.
+5. Pfeiltaste nach oben und enter zum neustarten
+
+
+
+
+
+
+
+
+
+
 
 ## 🚀 Getting Started
 

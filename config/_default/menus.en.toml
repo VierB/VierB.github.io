@@ -20,9 +20,14 @@ url = "projekte/"
 weight = 4
 
 [[main]]
+name="Team"
+url="team/"
+weight=5
+
+[[main]]
 name = "Nachhaltigkeit"
 url = "nachhaltigkeit/"
-weight = 5
+weight = 6
 
 
 
@@ -30,7 +35,7 @@ weight = 5
 [[main]]
 name = "Blog"
 url = "blog/"
-weight = 6
+weight = 7
 
 # Fußzeilenmenü
 [[footer]]
