@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Willkommen bei Vier B"
+  title: "Willkommen bei vierB"
   content: "Ihr vertrauenswürdiger Partner für Dacharbeiten in Berlin"
   image: "/images/banner.png"
   button:
@@ -27,7 +27,7 @@ features:
       link: "#"
 
   - title: "Warum Vier B wählen?"
-    image: "/images/service-2.png"
+    image: "images/no-search-found.png"
     content: "Unser Fokus liegt auf Qualität und Kundenzufriedenheit. Entdecken Sie, warum wir die beste Wahl für Ihr Dachprojekt in Berlin sind."
     bulletpoints:
       - "Langjährige Erfahrung und Fachkompetenz"
