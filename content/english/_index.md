@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Willkommen bei vierB"
-  content: "Ihr vertrauenswürdiger Partner für Dacharbeiten in Berlin"
+  content: "Reparieren - Sanieren - Instandhalten - Warten: Wir sind ZimmererInnen, DachdeckerInnen, ArchitektInnen und IngenieurInnen. Bauen im Bestand, erhalten was schon da ist."
   image: "/images/banner.png"
   button:
     enable: true
@@ -11,29 +11,32 @@ banner:
 
 # Features
 features:
-  - title: "Unsere Dachdeckerleistungen"
+  - title: "Unsere Leistungen"
     image: "/images/service-1.png"
-    content: "Wir bieten eine breite Palette von Dachdeckerleistungen, um alle Bedürfnisse zu erfüllen. Von Reparaturen bis hin zu Neubauten – wir decken alles ab."
+    content: "Die Kombination aus fundiertem theoretischem Wissen und praktischer Erfahrung ermöglicht uns die ganzheitliche Betreuung Ihrer Bauvorhaben aus einer Hand."
     bulletpoints:
-      - "Komplette Dachsanierung und Reparatur"
-      - "Hochwertige Materialien für Langlebigkeit und Ästhetik"
-      - "Erfahrene und zertifizierte Dachdecker"
-      - "Schnelle und zuverlässige Ausführung"
-      - "Individuelle Beratung und maßgeschneiderte Lösungen"
-      - "**Kostenloses Angebot und transparente Preise**"
+      - "Deckenbalkensanierung"
+      - "Mauerwerksanierung"
+      - "Terrassensanierung"
+      - "Dachtragwerksanierung"
+      - "Flachdachinstandsetzung / -abdichtung"
+      - "Gründach"
+      - "Gauben und Dachflächenfenster"
+      - "Energetische Sanierung"
+      - "Dachwartung und Havarie"
     button:
       enable: true
       label: "Mehr Erfahren"
-      link: "#"
+      link: "leistungen/"
 
-  - title: "Warum Vier B wählen?"
+  - title: "Warum vierB?"
     image: "images/no-search-found.png"
     content: "Unser Fokus liegt auf Qualität und Kundenzufriedenheit. Entdecken Sie, warum wir die beste Wahl für Ihr Dachprojekt in Berlin sind."
     bulletpoints:
-      - "Langjährige Erfahrung und Fachkompetenz"
-      - "Modernste Techniken und Werkzeuge"
-      - "Umweltfreundliche und nachhaltige Praktiken"
-      - "Vollständige Einhaltung aller Sicherheitsvorschriften"
+      - "**Gewerkeübergreifendes Denken:** Wir betrachten Projekte ganzheitlich und schaffen Synergien zwischen verschiedenen Gewerken."
+      - "**Konstruktive Zusammenarbeit:** Teamarbeit und Austausch mit allen Beteiligten sind entscheidend für den Erfolg unserer Projekte."
+      - "**Begleitende Planung und Ausführung:** Wir sind beratende und ausführende PartnerInnen von der Idee bis zur Fertigstellung."
+      - "**Integration von KundInnen und PlanerInnen:** Wir setzen auf eine aktive Einbeziehung unserer KundenInnen in den Bauprozess, um individuelle und passgenaue Lösungen zu bieten."
     button:
       enable: true
       label: "Projekte Ansehen"
@@ -53,18 +56,4 @@ features:
         enable: true
         label: "Mehr Erfahren"
         link: "#"
-
-
-  - title: "Kundenfeedback und Erfolgsgeschichten"
-    image: "/images/service-3.png"
-    content: "Lesen Sie, was unsere Kunden über unsere Arbeit sagen und wie wir ihre Dachprojekte erfolgreich umgesetzt haben."
-    bulletpoints:
-      - "Zahlreiche zufriedene Kunden in Berlin und Umgebung"
-      - "Detaillierte Fallstudien unserer abgeschlossenen Projekte"
-      - "Positives Feedback und hohe Weiterempfehlungsrate"
-      - "Engagement für höchste Qualitätsstandards und Kundenservice"
-    button:
-      enable: true
-      label: "Kundenmeinungen"
-      link: "https://vier-b.de/kundenmeinungen"
 ---

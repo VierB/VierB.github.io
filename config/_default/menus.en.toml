@@ -5,33 +5,19 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Über Uns"
-url = "ueber-uns/"
+name = "Team"
+url = "team/"
 weight = 2
 
 [[main]]
-name = "Dienstleistungen"
-url = "dienstleistungen/"
+name = "Leistungen"
+url = "leistungen/"
 weight = 3
-hasChildren = true
-
-[[main]]
-parent = "Dienstleistungen"
-name = "Abriss"
-url = "dienstleistungen/abriss/"
-weight = 1
-
-[[main]]
-parent = "Dienstleistungen"
-name = "Abriss1"
-url = "dienstleistungen/abriss1/"
-weight = 2
 
 [[main]]
 name = "Projekte"
 url = "projekte/"
 weight = 4
-
 
 # Fußzeilenmenü
 [[footer]]
@@ -43,8 +29,6 @@ weight = 1
 name = "Datenschutzrichtlinie"
 url = "datenschutzrichtlinie/"
 weight = 2
-
-
 
 [[footer]]
 name = "Kontakt"
