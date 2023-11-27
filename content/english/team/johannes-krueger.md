@@ -1,7 +1,7 @@
 ---
 title: Johannes Krüger
 email: info@vierb.net
-image: "/images/avatar.png"
+image: "/images/wbk.jpg"
 description: this is meta description
 social:
   - name: e-mail

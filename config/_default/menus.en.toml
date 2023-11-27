@@ -7,12 +7,12 @@ weight = 1
 [[main]]
 name = "Team"
 url = "team/"
-weight = 2
+weight = 3
 
 [[main]]
 name = "Leistungen"
 url = "leistungen/"
-weight = 3
+weight = 2
 
 [[main]]
 name = "Projekte"
@@ -21,13 +21,13 @@ weight = 4
 
 # Fußzeilenmenü
 [[footer]]
-name = "Über Uns"
-url = "ueber-uns/"
+name = "Team"
+url = "team/"
 weight = 1
 
 [[footer]]
-name = "Datenschutzrichtlinie"
-url = "datenschutzrichtlinie/"
+name = "Datenschutz"
+url = "datenschutz/"
 weight = 2
 
 [[footer]]

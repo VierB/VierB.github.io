@@ -6,8 +6,8 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Kostenloses Angebot Anfordern"
-    link: "https://vier-b.de"
+    label: "Kontaktieren Sie uns"
+    link: "mailto:info@vierb.net"
 
 # Features
 features:
@@ -40,7 +40,7 @@ features:
     button:
       enable: true
       label: "Projekte Ansehen"
-      link: "https://vier-b.de/projekte"
+      link: "projekte/"
 
   - title: "Unsere Dachdeckerleistungen"
     image: "/images/service-1.png"

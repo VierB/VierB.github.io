@@ -1,11 +1,8 @@
 ---
 title: "Unsere Leistungen"
-meta_title: "Leistungen vierB"
+meta_title: "vierB Leistungen"
 description: "Zimmerei und Dachdeckerei Leistungen"
 draft: false
-markup:
-  tableOfContents:
-    startLevel: 4
 ---
 
 {{< toc >}}
