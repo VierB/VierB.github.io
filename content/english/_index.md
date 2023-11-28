@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Kontaktieren Sie uns"
+    label: "Schreiben Sie uns"
     link: "mailto:info@vierb.net"
 
 # Features

@@ -1,10 +1,8 @@
 ---
-title: "Projekte"
+title: "Unsere Projekte"
 description: "Unsere Projekte aller Art."
 meta_title: "vierB Projekte"
-images:
-  - "/images/team.jpg"
-  - "/images/office.jpg"
+draft: false
 ---
 
 ## Noch nix da...lassen Sie uns hier Leben reinbringen.

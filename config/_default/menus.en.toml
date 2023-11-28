@@ -19,6 +19,56 @@ name = "Projekte"
 url = "projekte/"
 weight = 4
 
+[[main]]
+name = "Dienstleistungen"
+weight = 5
+hasChildren = true
+
+[[main]]
+parent = "Dienstleistungen"
+name = "Dachtragwerksanierung"
+url = "leistungentest/dachtragwerksanierung/"
+
+[[main]]
+parent = "Dienstleistungen"
+name = "Dachwartung und Havarie"
+url = "leistungentest/dachwartung-havarie/"
+
+[[main]]
+parent = "Dienstleistungen"
+name = "Deckenbalkensanierung"
+url = "leistungentest/deckenbalkensanierung/"
+
+[[main]]
+parent = "Dienstleistungen"
+name = "Energetische Sanierung"
+url = "leistungentest/energetische-sanierung/"
+
+[[main]]
+parent = "Dienstleistungen"
+name = "Flachdachinstandsetzung"
+url = "leistungentest/flachdachinstandsetzung/"
+
+[[main]]
+parent = "Dienstleistungen"
+name = "Gauben und Dachflächenfenster"
+url = "leistungentest/gauben-dachflaechenfenster/"
+
+[[main]]
+parent = "Dienstleistungen"
+name = "Gründach"
+url = "leistungentest/gruendach/"
+
+[[main]]
+parent = "Dienstleistungen"
+name = "Mauerwerksanierung"
+url = "leistungentest/mauerwerksanierung/"
+
+[[main]]
+parent = "Dienstleistungen"
+name = "Terrassensanierung"
+url = "leistungentest/terrassensanierung/"
+
 # Fußzeilenmenü
 [[footer]]
 name = "Team"
