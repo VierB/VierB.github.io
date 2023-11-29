@@ -2,12 +2,12 @@
 title: "Gründach"
 meta_title: "vierB Gründach"
 description: "Gründächer in Berlin und Brandenburg."
+name: "Willi Bauer"
+image: "/images/wbk.jpg"
+email: "willi.bauer@vierb.net"
+phone: "+49187321829990"
 draft: false
 ---
-
-## Ihr Ansprechpartner ##
-Niklas Mahren
-![Niklas Mahren](../../../assets/images/wbk.jpg)
 
 Gründächer sind nicht nur gut für das Stadtklima, sondern auch gut für die Bausubstanz und den sommerlichen Wärmeschutz von Gebäuden. Die geringen Temperaturschwankungen in der Dachabdichtung wirken sich positiv auf die Beständigkeit aus und es können langfristig Instandhaltungs- und Reparaturkosten gespart werden. 
 Speziell extensive Gründächer sind durch die geringen Wartungsansprüche ideal für eine Vielzahl von Dachflächen geeignet.
@@ -47,3 +47,5 @@ Extensive Dachbegrünungen sind eine kosteneffiziente und umweltfreundliche Lös
 
 Intensive Dachbegrünungen sind ideal für Projekte, bei denen ein nutzbarer Grünraum auf dem Dach gewünscht wird, z. B. für Erholungsflächen in Bürogebäuden oder Wohnanlagen. Sie erfordern jedoch eine sorgfältige Planung und regelmäßige Wartung.
 {{< /accordion >}}
+
+{{< mitarbeiter-card >}}

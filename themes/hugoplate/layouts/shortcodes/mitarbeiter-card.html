@@ -1,0 +1,10 @@
+<div class="mitarbeiter-card">
+    <img src="{{ .Page.Params.image }}" alt="{{ .Page.Title }}" style="max-width: 300px; height: auto;">
+    <h4>{{ .Page.Params.name }}</h4>
+    <p>Ansprechpartner: {{ .Page.Title }}
+    <br>
+    Email: <a href="mailto:{{ .Page.Params.email }}">{{ .Page.Params.email }}</a>
+    <br>
+    Telefon: <a href="tel:{{ .Page.Params.phone }}">{{ .Page.Params.phone }}</a></p>
+    <!-- Weitere Informationen -->
+</div>
