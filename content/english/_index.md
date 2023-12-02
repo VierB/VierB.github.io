@@ -11,27 +11,9 @@ banner:
 
 # Features
 features:
-  - title: "Unsere Leistungen"
-    image: "/images/service-1.png"
-    content: "Die Kombination aus fundiertem theoretischem Wissen und praktischer Erfahrung ermöglicht uns die ganzheitliche Betreuung Ihrer Bauvorhaben aus einer Hand."
-    bulletpoints:
-      - "Deckenbalkensanierung"
-      - "Mauerwerksanierung"
-      - "Terrassensanierung"
-      - "Dachtragwerksanierung"
-      - "Flachdachinstandsetzung / -abdichtung"
-      - "Gründach"
-      - "Gauben und Dachflächenfenster"
-      - "Energetische Sanierung"
-      - "Dachwartung und Havarie"
-    button:
-      enable: true
-      label: "Mehr Erfahren"
-      link: "leistungen/"
-
   - title: "Warum vierB?"
-    image: "images/no-search-found.png"
-    content: "Unser Fokus liegt auf Qualität und Kundenzufriedenheit. Entdecken Sie, warum wir die beste Wahl für Ihr Dachprojekt in Berlin sind."
+    image: "images/warumvierb.webp"
+    content: "Die Kombination aus fundierten theoretischen Wissen und praktischer Erfahrung ermöglicht uns die ganzheitliche Betreuung Ihrer Bauvorhaben aus einer Hand."
     bulletpoints:
       - "**Gewerkeübergreifendes Denken:** Wir betrachten Projekte ganzheitlich und schaffen Synergien zwischen verschiedenen Gewerken."
       - "**Konstruktive Zusammenarbeit:** Teamarbeit und Austausch mit allen Beteiligten sind entscheidend für den Erfolg unserer Projekte."
@@ -39,21 +21,25 @@ features:
       - "**Integration von KundInnen und PlanerInnen:** Wir setzen auf eine aktive Einbeziehung unserer KundenInnen in den Bauprozess, um individuelle und passgenaue Lösungen zu bieten."
     button:
       enable: true
-      label: "Projekte Ansehen"
+      label: "Unsere Projekte"
       link: "projekte/"
-
-  - title: "Unsere Dachdeckerleistungen"
+  
+  - title: "Unsere Leistungen"
     image: "/images/service-1.png"
-    content: "Wir bieten eine breite Palette von Dachdeckerleistungen, um alle Bedürfnisse zu erfüllen. Von Reparaturen bis hin zu Neubauten – wir decken alles ab."
+    content: "Die Kombination aus fundiertem theoretischem Wissen und praktischer Erfahrung ermöglicht uns die ganzheitliche Betreuung Ihrer Bauvorhaben aus einer Hand."
     bulletpoints:
-        - "Komplette Dachsanierung und Reparatur"
-        - "Hochwertige Materialien für Langlebigkeit und Ästhetik"
-        - "Erfahrene und zertifizierte Dachdecker"
-        - "Schnelle und zuverlässige Ausführung"
-        - "Individuelle Beratung und maßgeschneiderte Lösungen"
-        - "**Kostenloses Angebot und transparente Preise**"
+      - "[Deckenbalkensanierung](/leistungentest/deckenbalkensanierung/)"
+      - "[Mauerwerksanierung](/leistungentest/mauerwerksanierung/)"
+      - "[Terrassensanierung](/leistungentest/terrassensanierung/)"
+      - "[Dachtragwerksanierung](/leistungentest/dachtragwerksanierung/)"
+      - "[Flachdachinstandsetzung](/leistungentest/flachdachinstandsetzung)"
+      - "[Gründach](/leistungentest/gruendach/)"
+      - "[Gauben / Dachflächenfenster](/leistungentest/gauben-dachflaechenfenster/)"
+      - "[Energetische Sanierung](/leistungentest/energetische-sanierung/)"
+      - "[Dachwartung / Havarie](/leistungentest/dachwartung-havarie/)"
     button:
-        enable: true
-        label: "Mehr Erfahren"
-        link: "#"
+      enable: true
+      label: "Mehr Erfahren"
+      link: "leistungen/"
+
 ---

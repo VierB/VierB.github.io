@@ -21,6 +21,7 @@ weight = 4
 
 [[main]]
 name = "Dienstleistungen"
+url ="leistungentest/"
 weight = 5
 hasChildren = true
 
@@ -31,7 +32,7 @@ url = "leistungentest/dachtragwerksanierung/"
 
 [[main]]
 parent = "Dienstleistungen"
-name = "Dachwartung und Havarie"
+name = "Dachwartung / Havarie"
 url = "leistungentest/dachwartung-havarie/"
 
 [[main]]
@@ -51,7 +52,7 @@ url = "leistungentest/flachdachinstandsetzung/"
 
 [[main]]
 parent = "Dienstleistungen"
-name = "Gauben und Dachflächenfenster"
+name = "Gauben / Dachflächenfenster"
 url = "leistungentest/gauben-dachflaechenfenster/"
 
 [[main]]

@@ -1,5 +1,5 @@
 ---
-title: "Gauben und Dachflächenfenster"
+title: "Gauben / Dachflächenfenster"
 meta_title: "vierB Gauben und Dachflächenfenster"
 description: "Gauben und Dachflächenfenster in Berlin und Brandenburg."
 draft: false

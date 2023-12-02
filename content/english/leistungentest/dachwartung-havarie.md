@@ -1,5 +1,5 @@
 ---
-title: "Dachwartung und Havarie"
+title: "Dachwartung / Havarie"
 meta_title: "vierB Dachwartung und Havarie"
 description: "Dachwartung und Havarieeinsatz in Berlin und Brandenburg."
 draft: false
