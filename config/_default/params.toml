@@ -6,7 +6,7 @@ logo = "images/logo.png"
 logo_darkmode = "images/logo-darkmode.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "100px"
+logo_width = "50px"
 logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
@@ -99,21 +99,3 @@ enable = false
 # mailchimp subsciption
 mailchimp_form_action = "" # replace this url with yours
 mailchimp_form_name = ""
-
-[params]
-  [[params.teamMembers]]
-    name = "John Doe"
-    position = "CEO"
-    image = "/path/to/image.jpg"
-    [[params.teamMembers.social]]
-      url = "https://twitter.com/johndoe"
-      iconClass = "fa fa-twitter"
-    [[params.teamMembers.social]]
-      url = "https://linkedin.com/in/johndoe"
-      iconClass = "fa fa-linkedin"
-
-  [[params.teamMembers]]
-    name = "Jane Smith"
-    position = "CTO"
-    image = "/path/to/image2.jpg"
-    # ... social links
