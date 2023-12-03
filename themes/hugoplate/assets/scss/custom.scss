@@ -1,5 +1,25 @@
 // DO NOT WRITE ANY STYLE IN THIS FILE
 // If you want to add your own styles, please write it in the `./assets/scss/custom.scss` file.
-.custom-max-height {
-    max-height: 100px;
+
+/* Reduziert das Padding am oberen Rand des Banner-Bereichs */
+.section.pt-14 {
+    padding-top: 6px; /* oder eine andere gewünschte Größe */
 }
+
+/* Reduziert das Margin am unteren Rand im Features-Bereich */
+.mb-8 {
+    margin-bottom: 4px; /* oder eine andere gewünschte Größe */
+}
+
+/* Reduziert das Padding innerhalb der Testimonials-Sektion */
+.section {
+    padding-top: 6px; /* oder eine andere gewünschte Größe für oben */
+    padding-bottom: 6px; /* oder eine andere gewünschte Größe für unten */
+}
+
+/* Reduziert das Margin am unteren Rand der Team-Mitgliedskarten */
+.md\:col-6.lg\:col-4.mb-14 {
+    margin-bottom: 8px; /* oder eine andere gewünschte Größe */
+}
+
+/* Stellen Sie sicher, dass diese CSS-Regeln nach den Standard-CSS-Regeln geladen werden */
